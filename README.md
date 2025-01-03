@@ -22,6 +22,6 @@ CSS3 JavaScript HTML5
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="TypeScript" title="TypeScript"/></code>
 </div>
-
+https://github-readme-streak-stats.herokuapp.com/?user=sebastian-weber
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF" alt="My Tech Stack" />
 
