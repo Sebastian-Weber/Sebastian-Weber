@@ -1,6 +1,6 @@
 # Sebastian Weber — UI Designer · Design-to-Code
 
-I design interfaces and build them. Four years of B2B SaaS at a product company (empower GmbH), followed by a fullstack development bootcamp and a data analytics programme. The result: I can own a feature from Figma to deployed React component — without the handoff gap.
+I design interfaces and build them. Four years of B2B SaaS at a product company, followed by a fullstack development bootcamp and a data analytics programme. The result: I can own a feature from Figma to deployed React component — without the handoff gap.
 
 Currently based in Cologne. Open to B2B SaaS roles in NRW or remote.
 
@@ -15,7 +15,7 @@ Identified a real workflow problem in utility billing (Nebenkostenabrechnung), d
 Designed and deployed an interactive self-assessment tool for LinkedIn profile optimisation. Built in React, no framework dependencies.
 
 **[Portfolio](https://sebastian-weber.netlify.app)** — Case studies + live work  
-Includes the Convert Slides redesign (empower, B2B SaaS) and further UI/UX case studies.
+Includes the Convert Slides redesign (B2B SaaS) and further UI/UX case studies.
 
 ---
 
@@ -30,7 +30,7 @@ Includes the Convert Slides redesign (empower, B2B SaaS) and further UI/UX case 
 
 ## Background
 
-- 4+ years UI design in B2B SaaS (empower GmbH) — Slides add-in, Document Automation, icon system
+- 4+ years UI design in B2B SaaS — Slides add-in, Document Automation, icon system
 - Fullstack Web Development Bootcamp — WBS Coding School (2024)
 - Data Analytics & AI Bootcamp — neuefische / SPICED Academy (2026)
 - M.A. User Experience Design, B.A. Mediendesign — Rheinische Hochschule Köln
