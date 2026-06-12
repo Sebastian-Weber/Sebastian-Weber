@@ -1,4 +1,4 @@
-# Sebastian Weber — UI Designer · Design-to-Code
+# Sebastian Weber · UI Designer · Design-to-Code
 
 I design interfaces and build them. Four years of B2B SaaS at a product company, followed by a fullstack development bootcamp and a data analytics programme. The result: I can own a feature from Figma to deployed React component — without the handoff gap.
 
