@@ -21,8 +21,6 @@ Designed and deployed an interactive self-assessment tool for LinkedIn profile o
 **[Nebeko](https://sebastian-weber.github.io/nebeko/)** — UX research + React prototype  
 Identified a real workflow problem in utility billing (Nebenkostenabrechnung), designed and built an AI-assisted solution end-to-end. React, TypeScript, Tailwind.
 
-**[Portfolio](https://sebastian-weber.netlify.app)** — Case studies + live work  
-
 [Portfolio 2024-2025](https://sebastian-weber.netlify.app/) — Web Development projects (archived)
 Fullstack projects from the WBS Coding School bootcamp (2024). No longer maintained.
 
