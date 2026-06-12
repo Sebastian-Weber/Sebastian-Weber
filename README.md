@@ -1,4 +1,4 @@
-# Sebastian Weber · UI Designer · Design-to-Code
+# Sebastian Weber · UX/UI Designer · Design-to-Code
 
 I design interfaces and build them. Four years of B2B SaaS at a product company, followed by a fullstack development bootcamp and a data analytics programme. The result: I can own a feature from Figma to deployed React component — without the handoff gap.
 
@@ -12,7 +12,7 @@ Sebastian Weber — UI Designer · Design-to-Code
 
 I design interfaces and build them...
 
-[UX/UI Portfolio 2026](https://sebastian-weber.netlify.app/) — Case studies & live work
+[UX/UI Portfolio 2026](https://sebastian-weber.github.io/uxui-portfolio/) — Case studies & live work
 Includes UI/UX case studies, workflows and deploed tools.
 
 **[LinkedIn Readiness Wheel](https://sebastian-weber.github.io/linkedin-readiness-guide/)** — Interactive tool  
