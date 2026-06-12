@@ -8,14 +8,23 @@ Currently based in Cologne. Open to B2B SaaS roles in NRW or remote.
 
 ## Selected Projects
 
-**[Nebeko](https://sebastian-weber.github.io/nebeko/)** — UX research + React prototype  
-Identified a real workflow problem in utility billing (Nebenkostenabrechnung), designed and built an AI-assisted solution end-to-end. React, TypeScript, Tailwind.
+Sebastian Weber — UI Designer · Design-to-Code
+
+I design interfaces and build them...
+
+[UX/UI Portfolio 2026](https://sebastian-weber.netlify.app/) — Case studies & live work
+Includes UI/UX case studies, workflows and deploed tools.
 
 **[LinkedIn Readiness Wheel](https://sebastian-weber.github.io/linkedin-readiness-guide/)** — Interactive tool  
 Designed and deployed an interactive self-assessment tool for LinkedIn profile optimisation. Built in React, no framework dependencies.
 
+**[Nebeko](https://sebastian-weber.github.io/nebeko/)** — UX research + React prototype  
+Identified a real workflow problem in utility billing (Nebenkostenabrechnung), designed and built an AI-assisted solution end-to-end. React, TypeScript, Tailwind.
+
 **[Portfolio](https://sebastian-weber.netlify.app)** — Case studies + live work  
-Includes the Convert Slides redesign (B2B SaaS) and further UI/UX case studies.
+
+[Portfolio 2024-2025](https://sebastian-weber.netlify.app/) — Web Development projects (archived)
+Fullstack projects from the WBS Coding School bootcamp (2024). No longer maintained.
 
 ---
 
